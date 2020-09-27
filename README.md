@@ -1,6 +1,10 @@
 # FHiR FHLI 2.0
 A full stack web application that manages user identification and authentication, stores health data in the HL7 Standard FHIR Format, Fitbit watch Integration available.
 
+Find more information here:
+
+http://www.mostafa-ibrahim.net/SysEngBlog/
+
 ## Setup
 1. If you don't have yarn installed, run ```sudo npm install -g yarn```
 
